@@ -1,2 +1,2 @@
 My first zero readme
-README uptodat from github
+README update from github
